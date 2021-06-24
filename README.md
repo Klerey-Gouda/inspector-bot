@@ -3,7 +3,7 @@
 This is a discord bot written with discord.py by me.
 It is use a butler with many different commands.
 
-###Command List
+## Command List
 
 This is the list of command you can use. Prefix: =
 
